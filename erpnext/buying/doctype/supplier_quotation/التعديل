@@ -1,0 +1,32 @@
+{
+   "amend": 1,
+   "cancel": 1,
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Manufacturing Manager",
+   "share": 1,
+   "submit": 1,
+   "write": 1
+  },
+
+    "select_the_quarter",
+
+    {
+   "fieldname": "select_the_quarter",
+   "fieldtype": "Link",
+   "in_standard_filter": 1,
+   "label": "\u062d\u062f\u062f \u0627\u0644\u0631\u0628\u0639",
+   "options": "Quarter"
+  },
+
+    "quotation_number",
+{
+   "fieldname": "quotation_number",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "label": "Quotation Number"
+  },

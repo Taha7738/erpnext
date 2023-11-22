@@ -1,0 +1,36 @@
+{
+ "add_total_row": 1,
+ "columns": [],
+ "creation": "2023-11-17 03:03:21.621089",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "json": "{}",
+ "modified": "2023-11-17 03:07:59.921995",
+ "modified_by": "Administrator",
+ "module": "Stock",
+ "name": "\u062a\u0641\u0627\u0635\u064a\u0644 \u0633\u064a\u0631 \u0637\u0644\u0628 \u0627\u0644\u0645\u0648\u0627\u062f",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Material Request",
+ "report_name": "\u062a\u0641\u0627\u0635\u064a\u0644 \u0633\u064a\u0631 \u0637\u0644\u0628 \u0627\u0644\u0645\u0648\u0627\u062f",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "Purchase Manager"
+  },
+  {
+   "role": "Stock Manager"
+  },
+  {
+   "role": "Stock User"
+  },
+  {
+   "role": "Purchase User"
+  }
+ ]
+}
